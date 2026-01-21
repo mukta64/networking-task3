@@ -1,1 +1,1 @@
-# networking-task3
+This task helped me understand the basics of computer networking and how to analyze network traffic using Wireshark. I learned how to capture live packets, filter traffic by protocols such as DNS, TCP, and HTTP/HTTPS, observe the TCP three-way handshake, and differentiate between plain-text and encrypted traffic. This task improved my ability to monitor and analyze network communication from a cybersecurity perspective.# networking-task3
